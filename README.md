@@ -1,0 +1,2 @@
+# NumVerifyAPIProject
+Me and my family get tons of spam phone calls, and I tried finding applications on my phone that would verify the number for me but all of them were either paid or skeptical. This led me to design this short but very helpful project that verifies phone numbers for me in JavaScript through the NumVerify API. I used the NumVerify API key and made the javascript project so it tells me if the number is valid or not. 
